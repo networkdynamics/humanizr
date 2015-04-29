@@ -31,7 +31,7 @@ and organizations interact, all the way from examining how content created by
 organizations reaches individuals to how individuals converse with organizations
 (e.g., local clubs or small businesses).
 
-# Installation:
+# Installation and Usage:
 
 In the top level directory, run:
 
