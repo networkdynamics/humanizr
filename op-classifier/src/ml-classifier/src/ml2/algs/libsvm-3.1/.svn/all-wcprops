@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1
+END
+train.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/train.3.3
+END
+training_set.libsvm.model
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/training_set.libsvm.model
+END
+training_set.libsvm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/training_set.libsvm
+END
+svm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm.cpp
+END
+svm-scale
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm-scale
+END
+output_file
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/output_file
+END
+train.1.1.scale.model
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/train.1.1.scale.model
+END
+train.1.1.scale
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/train.1.1.scale
+END
+svm.def
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm.def
+END
+test.1.1.predict
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/test.1.1.predict
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/COPYRIGHT
+END
+heart_scale.model
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/heart_scale.model
+END
+heart_scale
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/heart_scale
+END
+svm-scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm-scale.c
+END
+test.1.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/test.1.1
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/Makefile
+END
+range1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/range1
+END
+svm-train
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm-train
+END
+test.3.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/test.3.3
+END
+test_set.libsvm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/test_set.libsvm
+END
+svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm.h
+END
+test.1.1.scale.predict
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/test.1.1.scale.predict
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/README
+END
+svm-predict
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm-predict
+END
+svm-train.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm-train.c
+END
+test.1.1.scale
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/test.1.1.scale
+END
+Makefile.win
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/Makefile.win
+END
+train.1.1.model
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/train.1.1.model
+END
+FAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/FAQ.html
+END
+train.1.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/train.1.1
+END
+train.2.2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/train.2.2
+END
+svm-predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/1028/trunk/Census/src/census/ml2/algs/libsvm-3.1/svm-predict.c
+END

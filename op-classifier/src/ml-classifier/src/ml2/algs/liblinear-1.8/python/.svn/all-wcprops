@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/python
+END
+liblinearutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/python/liblinearutil.py
+END
+liblinear.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/python/liblinear.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/python/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/python/README
+END

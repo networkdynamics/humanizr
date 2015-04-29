@@ -1,0 +1,9 @@
+{
+'trainer_class':'libsvm_trainer.LibSVMTrainer',\
+'trainer_settings':\
+{\
+'perform_grid_search':False,\
+'trainer_package_parameters':{'-s':'0','-t':'2','-c':'8','-g':'0.015625'},\
+'grid_search_parameters':{'c_min':3,'c_max':10,'g_min':-6,'g_max':0,'exp':True,'num_folds':10,'finer_search':False,'step_size':0.10}\
+}\
+}

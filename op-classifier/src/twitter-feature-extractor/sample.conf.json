@@ -1,0 +1,42 @@
+{
+    "mysql": {
+        "host": "mysql hostname",
+        "user": "mysql username",
+        "passwd": "mysql password",
+        "db": "mysql database"
+    },
+    "attribute": "the attribute to study (human-readable)",
+    "labels": {
+        "human-readable label name; value is the database ID": 1,
+        "other label": 2
+    },
+    "limit": 200,
+    "features": {
+        "enabled": {
+            "KTopWords": {},
+            "KTopDigrams": {},
+            "KTopTrigrams": {},
+            "KTopStems": {
+                "k": 25
+            },
+            "KTopCostems": {
+                "k": 25
+            },
+            "KTopHashtags": {},
+            "TweetFrequency": {},
+            "MentionFrequency": {},
+            "HashtagFrequency": {},
+            "LinkFrequency": {},
+            "RetweetFrequency": {},
+            "InOutRatio": {},
+            "RetweetTweetRatio": {},
+            "NameFeature": {
+                "some_param": "some_value"
+            }
+        },
+        "default_params": {
+            "k": 20
+        }
+    },
+    "output_file": "somefilename.json"
+}

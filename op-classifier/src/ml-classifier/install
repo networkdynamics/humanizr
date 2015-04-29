@@ -1,0 +1,5 @@
+#!/bin/sh
+
+PYTHON_CMD="python"
+
+$PYTHON_CMD setup.py install $*

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/dnrm2.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/daxpy.c
+END
+blas.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/blas.h
+END
+blasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/blasp.h
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/dscal.c
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/ddot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/blas/Makefile
+END

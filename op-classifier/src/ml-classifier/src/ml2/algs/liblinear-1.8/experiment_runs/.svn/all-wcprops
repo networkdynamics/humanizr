@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/experiment_runs
+END
+output_file
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/experiment_runs/output_file
+END
+prediction_output
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/experiment_runs/prediction_output
+END
+training_set.libsvm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/experiment_runs/training_set.libsvm
+END
+test_set.libsvm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/experiment_runs/test_set.libsvm
+END
+learned_model_file.liblinear
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/experiment_runs/learned_model_file.liblinear
+END

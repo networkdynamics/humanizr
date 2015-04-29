@@ -1,0 +1,1 @@
+{"trainer_settings": {"grid_search_parameters": {"step_size": 0.10000000000000001, "g_max": 0, "exp": true, "c_min": 3, "num_folds": 10, "c_max": 10, "g_min": -6, "finer_search": false}, "perform_grid_search": true, "trainer_package_parameters": {"-t": "2", "-g": "0.0078125", "-c": "128", "-s": "0"}}, "trainer_class": "libsvm_trainer.LibSVMTrainer"}

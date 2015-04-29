@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows
+END
+libsvmwrite.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/libsvmwrite.mexw64
+END
+libsvmread.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/libsvmread.mexw64
+END
+predict.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/predict.mexw64
+END
+train.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/train.mexw64
+END
+predict.exe
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/predict.exe
+END
+liblinear.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/liblinear.dll
+END
+train.exe
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/windows/train.exe
+END

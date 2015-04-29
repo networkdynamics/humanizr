@@ -1,0 +1,17 @@
+{
+'trainer_class':'linear_svm_trainer.LinearSVMTrainer',\
+'trainer_settings':\
+{\
+#'training_program_path':'/Users/faiyaz/Research/codes/DemographicInference/liblinear-1.8/train',\
+'trainer_package_parameters':{'-s':'1','-c':'1.0','-B':'-1'},\
+#'training_set_directory':'/Users/faiyaz/Research/codes/DemographicInference/liblinear-1.8/experiment_runs/',\
+#'training_set_filename':'training_set.libsvm',\
+#'model_file_directory':'/Users/faiyaz/Research/codes/DemographicInference/liblinear-1.8/experiment_runs/',\
+#'model_filename':'learned_model_file.liblinear',\
+#'validation_set_directory':'/Users/faiyaz/Research/codes/DemographicInference/liblinear-1.8/experiment_runs/',
+#'validation_set_filename':'test_set.libsvm',
+#'output_file_directory':'/Users/faiyaz/Research/codes/DemographicInference/liblinear-1.8/experiment_runs/',
+#'output_filename':'prediction_output',
+#'predictor_program_path':'/Users/faiyaz/Research/codes/DemographicInference/liblinear-1.8/predict'\
+}\
+}

@@ -1,0 +1,7 @@
+{
+'trainer_class':'gbm_trainer.GBMTrainer',\
+'trainer_settings':\
+{\
+'trainer_package_parameters':{'shrinkage':0.001,'n_trees':10000},\
+}\
+}

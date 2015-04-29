@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/1025/trunk/Census/src/census/ml2/algs/liblinear-1.8
+END
+output1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/output1
+END
+predict
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/1025/trunk/Census/src/census/ml2/algs/liblinear-1.8/predict
+END
+linear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/1025/trunk/Census/src/census/ml2/algs/liblinear-1.8/linear.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/README
+END
+train.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/train.c
+END
+linear.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/linear.h
+END
+tron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/tron.cpp
+END
+training_set_fold_0.libsvm.model
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/training_set_fold_0.libsvm.model
+END
+linear.def
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/linear.def
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/COPYRIGHT
+END
+tron.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/tron.h
+END
+Makefile.win
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/Makefile.win
+END
+heart_scale
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/heart_scale
+END
+predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/predict.c
+END
+train
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/1025/trunk/Census/src/census/ml2/algs/liblinear-1.8/train
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/Makefile
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab
+END
+run.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/run.m
+END
+linear_model_matlab.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/linear_model_matlab.h
+END
+libsvmwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/libsvmwrite.c
+END
+make.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/make.m
+END
+libsvmread.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/libsvmread.c
+END
+linear_model_matlab.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/linear_model_matlab.c
+END
+predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/predict.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/README
+END
+train.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/960/trunk/Census/src/census/ml2/algs/liblinear-1.8/matlab/train.c
+END
