@@ -53,3 +53,18 @@ returned by the Twitter REST API.
 The output of the classifier is a two-column .tsv file where for each line, the
 first column is a user ID, and the second column is the classification (org =
 organization/per = individual).
+
+# Reference
+
+For more information on how Humanizr works, see our
+[paper](http://cs.mcgill.ca/~jurgens/docs/mccorriston-jurgens-ruths_icwsm-2015.pdf)
+in ICWSM 2015.  We kindly ask that if you use Humanizr in an academic work,
+that you please cite the following reference:
+
+    @inproceedings{McCorriston2015Organizations,
+        title={Organizations are Users Too: Characterizing and Detecting the Presence of Organizations on Twitter},
+        author={James McCorriston and David Jurgens and Derek Ruths},
+        booktitle={Proceedings of the 9th International AAAI Conference on Weblogs and Social Media (ICWSM)},
+        year={2015}
+    }
+
