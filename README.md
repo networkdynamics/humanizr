@@ -1,7 +1,5 @@
 # Humanizr: Bringing back the humanity to Twitter
 
-# Summary
-
 Humanizr is a software library and off-the-shelf tool for classifying Twitter
 accounts as belonging to either an individual or an organization (e.g., a
 corporation or social group).
