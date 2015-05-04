@@ -5,8 +5,6 @@ import os
 import json
 import datetime
 
-import MySQLdb as mysql
-
 from tfx import errors
 
 
