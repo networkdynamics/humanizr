@@ -185,6 +185,9 @@ class JSONFiles:
 	self.tweets = {}
 
 	json_files = os.listdir(tweet_dir)
+	if len(json_files) < 1:
+		logging.error('Empty tweet JSON directory.')
+		exit()
         for f in json_files:
 	    try:
                 f = open(tweet_dir + '/' + f, 'r')

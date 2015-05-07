@@ -171,9 +171,8 @@ if __name__ == '__main__':
 		
 	
 	else: # No training file provided. So model_file is used to get the model
-		
 		cl = Classifier(trainer,None,test_data_set,use_saved_model=True,saved_model_file=model_file)
-		
+	
 	cl.classify()
 	
 	translate = {'1':'org', '2':'per'}

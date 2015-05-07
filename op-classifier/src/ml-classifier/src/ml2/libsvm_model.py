@@ -124,11 +124,11 @@ class LibSVMModel(Model):
 		args.append(output_filename)
 		#logging.debug( 'args for predict'
 		#logging.debug( args
-		fnull=open(os.devnull,'w')
+		#fnull=open(os.devnull,'w')
 		#p=subprocess.Popen(args,stdout=subprocess.PIPE)
 		
-		p=subprocess.call(args,stdout=fnull)
-		fnull.close()
+		p=subprocess.call(args)#,stdout=fnull)
+		#fnull.close()
 		'''
 		for line in p.stdout:
 			#logging.debug( line
