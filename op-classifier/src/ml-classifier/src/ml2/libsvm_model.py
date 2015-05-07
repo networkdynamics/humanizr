@@ -26,9 +26,14 @@ class LibSVMModel(Model):
 	def __init__(self,tmp_folder_location,model_file,grid_search=False,c=0,g=0):
 		self._tmp_folder_location=tmp_folder_location
 		self._orig_model_file=model_file
-		self._model_file=os.path.join(tmp_folder_location,model_file)
-		self._predictor_package_path='svm-predict'
-		
+		self._model_file=os.path.join(tmp_folder_location,model_file) 
+
+                # Fully specify the LIBSVM path so that we can call it from the
+                # command line in predict()
+                svm_path = os.path.join(os.path.join(os.path.split(__file__)[0], 'algs'), 'libsvm-3.1')                
+		self._predictor_package_path=os.path.join(svm_path, 'svm-predict')
+
+                
 		self._output_filename=os.path.join(tmp_folder_location,'output_file')
 		if(grid_search==False):
 			self._test_file_name=os.path.join(tmp_folder_location,'test_set.libsvm'+'_'+str(LibSVMModel._file_suffix))
@@ -124,11 +129,11 @@ class LibSVMModel(Model):
 		args.append(output_filename)
 		#logging.debug( 'args for predict'
 		#logging.debug( args
-		#fnull=open(os.devnull,'w')
+                fnull=open(os.devnull,'w')
 		#p=subprocess.Popen(args,stdout=subprocess.PIPE)
 		
-		p=subprocess.call(args)#,stdout=fnull)
-		#fnull.close()
+		p=subprocess.call(args, stdout=fnull)
+		fnull.close()
 		'''
 		for line in p.stdout:
 			#logging.debug( line

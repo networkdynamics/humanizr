@@ -2,8 +2,10 @@
 from setuptools import setup
 
 setup(
-    name = 'Organization-Personal Classifier',
-    version = '0.0.1',
+    name = 'Humanizr',
+    url = 'http://networkdynamics.org/resources/software/humanizr',
+    license = 'BSD',
+    version = '1.0.0',
     packages = ['op-classifier'],
     package_dir = {'op-classifier': 'op-classifier'},
     install_requires = ['python-cjson'],

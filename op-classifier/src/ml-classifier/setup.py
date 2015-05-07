@@ -22,15 +22,17 @@ setup(
     },
 	name = 'ml-classifier',
 	version = '1.0',
-	scripts = ['scripts/classifier','scripts/xvalidator','src/ml2/algs/libsvm-3.1/svm-train','src/ml2/algs/libsvm-3.1/svm-predict','src/ml2/algs/libsvm-3.1/svm-scale'],
 	packages = ['ml2'],
-	package_dir = {'ml2': 'src/ml2'},
+        package_dir = {'ml2': 'src/ml2' },
+	package_data = {'ml2': ['scripts/classifier', 'scripts/xvalidator', 'algs/libsvm-3.1/svm-train',
+                                'algs/libsvm-3.1/svm-predict',
+                                'algs/libsvm-3.1/svm-scale'], },
 	#package_data = {'ml2': ['default_hermesrc']},
 	
 	# project metadata
 	author = 'Faiyaz Zamal',
 	author_email = 'faiyaz.zamal@mail.mcgill.ca',
 	description = 'A system for inferring demographics for Twitter users.'
-	#license = 'BSD',
+        license = 'BSD',
 	#url = 'http://www.networkdynamics.org',
 )
