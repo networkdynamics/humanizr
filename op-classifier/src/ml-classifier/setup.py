@@ -32,7 +32,7 @@ setup(
 	# project metadata
 	author = 'Faiyaz Zamal',
 	author_email = 'faiyaz.zamal@mail.mcgill.ca',
-	description = 'A system for inferring demographics for Twitter users.'
+	description = 'A system for inferring demographics for Twitter users.',
         license = 'BSD',
 	#url = 'http://www.networkdynamics.org',
 )
