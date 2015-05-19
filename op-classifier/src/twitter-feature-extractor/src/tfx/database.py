@@ -214,6 +214,13 @@ class JSONFiles:
 		print str(e)
                 logging.warn("Invalid JSON file: %s" % f)
 
+	max_count = 0
+	for uid in self.tweets:
+		if len(self.tweets[uid]) > max_count:
+			max_count = len(self.tweets[uid])
+	print 'MAX COUNT: %d' % max_count
+	print 'SIZE: %d' % len(self.tweets)
+
     def get_users_for_label(self, label):
         return self.profiles[label]
 
