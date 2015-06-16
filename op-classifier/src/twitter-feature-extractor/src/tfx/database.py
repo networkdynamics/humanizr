@@ -200,9 +200,9 @@ class JSONFiles:
 		    label = 0
                     if label not in self.profiles:
                         self.profiles[label] = {}
-		    if user_id not in self.profiles:
+		    if user_id not in self.profiles[label]:
 		        self.tweets[user_id] = []
-                    self.profiles[label][user_id] = tweet_json['user']
+	                self.profiles[label][user_id] = tweet_json['user']
 		    temp_timestamps = tweet_json['created_at'].split(' ')
 		    filtered_timestamps = []
 		    for tt in temp_timestamps:
@@ -218,8 +218,8 @@ class JSONFiles:
 	for uid in self.tweets:
 		if len(self.tweets[uid]) > max_count:
 			max_count = len(self.tweets[uid])
-	print 'MAX COUNT: %d' % max_count
-	print 'SIZE: %d' % len(self.tweets)
+	print 'MAX NUMBER OF TWEETS FOR ONE USER: %d' % max_count
+	print 'NUMBER OF USERS: %d' % len(self.tweets)
 
     def get_users_for_label(self, label):
         return self.profiles[label]
